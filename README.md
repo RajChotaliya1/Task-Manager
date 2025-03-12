@@ -1,6 +1,6 @@
 # Task Manager 📝
 
-A simple Task Manager app built with **React.js** and **Bootstrap** to manage tasks efficiently.
+A simple Task Manager app built with **React.js** to manage tasks efficiently.
 
 ## Features 🚀
 
@@ -11,4 +11,4 @@ A simple Task Manager app built with **React.js** and **Bootstrap** to manage ta
 - 🔍 **Filter Tasks**: Show only completed tasks.  
 
 ---
-Built with ❤️ using **React.js** and **Bootstrap**.
+Built with ❤️ using **React.js**.
