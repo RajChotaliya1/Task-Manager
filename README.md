@@ -6,4 +6,4 @@ Features 🚀
 ✅ Mark Tasks as Completed: Checkbox to mark tasks as done.
 ➕ Add New Tasks: Easily add new tasks.
 ❌ Delete Tasks: Remove tasks with a delete button.
-🔍 Filter Tasks: Show only completed tasks
+🔍 Filter Tasks: Show only completed tasks.
